@@ -1,5 +1,5 @@
 # zmart
-Zmart is console nased GUI text editor developed by **Jebro Open Software Distributor** aka me :) using
+Zmart is console based GUI text editor developed by **Jebro Open Software Distributor** aka me :) using
 Java and [lanterna library](https://github.com/mabe02/lanterna)
 The project is in development now, but some pieces and tests of the software and library already started to appear on this repo...
 ## Release history
