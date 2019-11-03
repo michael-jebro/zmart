@@ -2,8 +2,394 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4355cffb-954e-40c9-a539-f3ae0587057c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Zmart.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Zmart.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/License.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/GUIGuideComponents.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/GUIGuideDialogs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/GUIGuideMisc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/GUIGuideStartTheGUI.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/GUIGuideWindows.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/Maven.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/Screenshots.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/contents.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/examples/gui/action_list_box.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/examples/gui/action_list_dialogs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/examples/gui/basic_form_submission.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/examples/gui/buttons.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/examples/gui/check_boxes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/examples/gui/combo_boxes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/examples/gui/component_sizing.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/examples/gui/file_dialogs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/examples/gui/hello_world.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/examples/gui/labels.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/examples/gui/layout_managers.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/examples/gui/message_dialogs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/examples/gui/panels.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/examples/gui/radio_boxes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/examples/gui/screenshots/action_list_box.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/examples/gui/screenshots/action_list_dialogs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/examples/gui/screenshots/buttons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/examples/gui/screenshots/calculator.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/examples/gui/screenshots/check_boxes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/examples/gui/screenshots/combo_box.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/examples/gui/screenshots/combo_box_activated.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/examples/gui/screenshots/file_dialogs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/examples/gui/screenshots/hello_world.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/examples/gui/screenshots/labels.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/examples/gui/screenshots/message_dialogs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/examples/gui/screenshots/multiline_input_dialogs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/examples/gui/screenshots/panels.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/examples/gui/screenshots/radio_boxes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/examples/gui/screenshots/tables.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/examples/gui/screenshots/text_boxes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/examples/gui/screenshots/text_input_dialogs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/examples/gui/tables.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/examples/gui/text_boxes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/examples/gui/text_input_dialogs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/examples/gui/windows.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/examples/terminal/overview.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/introduction.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/tutorial/Tutorial01.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/tutorial/Tutorial02.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/tutorial/Tutorial03.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/tutorial/Tutorial04.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/using-gui.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/using-screen.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/docs/using-terminal.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/licenseheader.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/native-integration/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/examples/java/com/googlecode/lanterna/examples/DrawRectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/examples/java/com/googlecode/lanterna/examples/OutputChar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/examples/java/com/googlecode/lanterna/examples/OutputString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/SGR.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/Symbols.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/TerminalPosition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/TerminalSize.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/TerminalTextUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/TextCharacter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/TextColor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/bundle/BundleLocator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/bundle/DefaultTheme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/bundle/LanternaThemes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/bundle/LocalizedUIBundle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/graphics/AbstractTextGraphics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/graphics/AbstractTheme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/graphics/BasicTextImage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/graphics/DefaultMutableThemeStyle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/graphics/DefaultShapeRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/graphics/DelegatingTheme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/graphics/DelegatingThemeDefinition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/graphics/DoublePrintingTextGraphics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/graphics/NullTextGraphics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/graphics/PropertyTheme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/graphics/Scrollable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/graphics/ShapeRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/graphics/SimpleTheme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/graphics/StyleSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/graphics/SubTextGraphics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/graphics/TextGraphics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/graphics/TextGraphicsWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/graphics/TextImage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/graphics/Theme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/graphics/ThemeDefinition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/graphics/ThemeStyle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/graphics/ThemedTextGraphics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/AbsoluteLayout.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/AbstractBasePane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/AbstractBorder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/AbstractComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/AbstractComposite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/AbstractInteractableComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/AbstractListBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/AbstractTextGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/AbstractTextGUIThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/AbstractWindow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/ActionListBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/AnimatedLabel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/AsynchronousTextGUIThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/BasePane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/BasePaneListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/BasicWindow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/Border.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/BorderLayout.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/Borders.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/Button.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/CheckBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/CheckBoxList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/ComboBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/Component.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/ComponentRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/Composite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/Container.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/DefaultTextGUIGraphics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/DefaultWindowDecorationRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/DefaultWindowManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/Direction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/EmptySpace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/EmptyWindowDecorationRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/FatWindowDecorationRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/GUIBackdrop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/GridLayout.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/InputFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/Interactable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/InteractableLookupMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/InteractableRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/Label.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/LayoutData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/LayoutManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/LinearLayout.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/LocalizedString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/MultiWindowTextGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/Panel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/Panels.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/ProgressBar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/RadioBoxList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/SameTextGUIThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/ScrollBar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/SeparateTextGUIThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/Separator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/TODO.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/TextBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/TextGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/TextGUIElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/TextGUIGraphics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/TextGUIThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/TextGUIThreadFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/Window.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/WindowBasedTextGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/WindowDecorationRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/WindowListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/WindowListenerAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/WindowManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/WindowPostRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/WindowShadowRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/dialogs/AbstractDialogBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/dialogs/ActionListDialog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/dialogs/ActionListDialogBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/dialogs/DialogWindow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/dialogs/FileDialog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/dialogs/FileDialogBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/dialogs/ListSelectDialog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/dialogs/ListSelectDialogBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/dialogs/MessageDialog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/dialogs/MessageDialogBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/dialogs/MessageDialogButton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/dialogs/TextInputDialog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/dialogs/TextInputDialogBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/dialogs/TextInputDialogResultValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/dialogs/WaitingDialog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/table/DefaultTableCellRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/table/DefaultTableHeaderRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/table/DefaultTableRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/table/Table.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/table/TableCellBorderStyle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/table/TableCellRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/table/TableHeaderRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/table/TableModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/table/TableRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/input/AltAndCharacterPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/input/BasicCharacterPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/input/CharacterPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/input/CtrlAltAndCharacterPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/input/CtrlAndCharacterPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/input/DefaultKeyDecodingProfile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/input/EscapeSequenceCharacterPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/input/InputDecoder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/input/InputProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/input/KeyDecodingProfile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/input/KeyStroke.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/input/KeyType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/input/MouseAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/input/MouseActionType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/input/MouseCharacterPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/input/NormalCharacterPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/input/ScreenInfoAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/input/ScreenInfoCharacterPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/screen/AbstractScreen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/screen/Screen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/screen/ScreenBuffer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/screen/ScreenTextGraphics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/screen/TabBehaviour.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/screen/TerminalScreen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/screen/VirtualScreen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/screen/WrapBehaviour.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/AbstractTerminal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/DefaultTerminalFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/ExtendedTerminal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/IOSafeExtendedTerminal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/IOSafeTerminal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/IOSafeTerminalAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/MouseCaptureMode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/SimpleTerminalResizeListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/Terminal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/TerminalFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/TerminalResizeListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/TerminalTextGraphics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/ansi/ANSITerminal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/ansi/CygwinTerminal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/ansi/FixedTerminalSizeProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/ansi/StreamBasedTerminal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/ansi/TelnetProtocol.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/ansi/TelnetTerminal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/ansi/TelnetTerminalServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/ansi/UnixLikeTTYTerminal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/ansi/UnixLikeTerminal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/ansi/UnixTerminal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/ansi/UnixTerminalSizeQuerier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/swing/AWTTerminal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/swing/AWTTerminalFontConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/swing/AWTTerminalFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/swing/AWTTerminalImplementation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/swing/GraphicalTerminalImplementation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/swing/ScrollingAWTTerminal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/swing/ScrollingSwingTerminal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/swing/SwingTerminal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/swing/SwingTerminalFontConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/swing/SwingTerminalFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/swing/SwingTerminalImplementation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/swing/TerminalEmulatorAutoCloseTrigger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/swing/TerminalEmulatorColorConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/swing/TerminalEmulatorDeviceConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/swing/TerminalEmulatorPalette.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/swing/TerminalScrollController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/virtual/DefaultVirtualTerminal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/virtual/TextBuffer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/virtual/VirtualTerminal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/virtual/VirtualTerminalListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/virtual/VirtualTerminalTextGraphics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/lanterna/main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/resources/bigsnake-theme.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/resources/blaster-theme.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/resources/businessmachine-theme.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/resources/conqueror-theme.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/resources/default-theme.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/resources/defrost-theme.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/resources/multilang/lanterna-ui.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/resources/multilang/lanterna-ui_da.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/resources/multilang/lanterna-ui_de.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/resources/multilang/lanterna-ui_fi.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/resources/multilang/lanterna-ui_fr.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/resources/multilang/lanterna-ui_ja.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/resources/multilang/lanterna-ui_nb.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/resources/multilang/lanterna-ui_nn.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/resources/multilang/lanterna-ui_no.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/resources/multilang/lanterna-ui_sv.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/resources/multilang/lanterna-ui_zh-CN.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/main/resources/multilang/lanterna-ui_zh-TW.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/Environment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/TerminalTextUtilsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/TestACS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/TestAllCodes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/TestShellCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/TestTerminalFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/TestUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/bundle/DefaultThemeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/graphics/RedundantThemeDeclarationsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/gui2/ComboBoxTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/gui2/DialogsTextGUIBasicTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/gui2/DynamicGridLayoutTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/gui2/FullScreenTextGUITest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/gui2/GUIOverTelnet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/gui2/GridLayoutTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/gui2/LineWrappingLabelTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/gui2/LinearLayoutTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/gui2/ListBoxTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/gui2/MiscComponentTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/gui2/MultiButtonTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/gui2/MultiLabelTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/gui2/MultiWindowManagerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/gui2/PanelTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/gui2/ScrollBarTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/gui2/SimpleWindowManagerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/gui2/TableTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/gui2/TestBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/gui2/TextBoxTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/gui2/ThemeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/gui2/WelcomeSplashTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/issue/Issue150.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/issue/Issue155.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/issue/Issue190.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/issue/Issue212.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/issue/Issue216.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/issue/Issue221.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/issue/Issue249.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/issue/Issue254.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/issue/Issue261.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/issue/Issue274.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/issue/Issue305.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/issue/Issue312.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/issue/Issue313.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/issue/Issue334.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/issue/Issue358.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/issue/Issue359.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/issue/Issue361.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/issue/Issue374.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/issue/Issue376.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/issue/Issue380.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/issue/Issue384.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/issue/Issue385.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/issue/Issue387.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/issue/Issue392.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/issue/Issue409.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/issue/Issue78.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/issue/Issue95.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/issue/IssueX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/screen/CJKScreenTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/screen/DrawImageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/screen/InternationalCharactersTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/screen/MultiScreenTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/screen/ScreenClearTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/screen/ScreenLineTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/screen/ScreenRectangleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/screen/ScreenResizeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/screen/ScreenTabTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/screen/ScreenTriangleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/screen/SimpleScreenTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/screen/TerminalColorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/screen/TerminalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/screen/TextGraphicsWriterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/screen/VirtualScreenTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/terminal/BlinkTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/terminal/CJKTerminalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/terminal/EnqTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/terminal/ExtendedTerminalTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/terminal/InitialSizeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/terminal/InputTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/terminal/KeyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/terminal/NewSwingTerminalTest.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/terminal/NewSwingTerminalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/terminal/PrivateModeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/terminal/PseudoTerminal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/terminal/RawTerminalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/terminal/ResetAllTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/terminal/SGRTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/terminal/ScrollingAWTTerminalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/terminal/ScrollingSwingTerminalTest.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/terminal/ScrollingSwingTerminalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/terminal/SimpleTerminalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/terminal/SwingTerminalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/terminal/TelnetTerminalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/terminal/Terminal24bitColorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/terminal/Terminal8bitIndexedColorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/terminal/TerminalInputTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/terminal/TerminalResizeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/terminal/TerminalTextGraphicsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/terminal/virtual/DefaultVirtualTerminalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/tutorial/Tutorial01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/tutorial/Tutorial02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/tutorial/Tutorial03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanterna/src/test/java/com/googlecode/lanterna/tutorial/Tutorial04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KeyStrokeListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scene/FileEditor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scene/FileSaver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scene/Root.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,206 +397,19 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-874702119">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.15" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="9" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="9" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="27" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="27" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/TerminalSize.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#7790#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/scene/FileEditor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/scene/FileSaver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/KeyStrokeListener.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/scene/Root.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/WindowBasedTextGUI.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/Terminal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
-              <folding>
-                <element signature="e#0#15468#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/input/InputProvider.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-80">
-              <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/scene/FileEditor.java" />
-      </list>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
     </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1386" />
-    <option name="height" value="788" />
   </component>
   <component name="ProjectId" id="1PBpNMYFVfsIGmWCzGF78ChAWNQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Zmart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zmart" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zmart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zmart" type="462c0819:PsiDirectoryNode" />
-              <item name="lanterna" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zmart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zmart" type="462c0819:PsiDirectoryNode" />
-              <item name="lanterna" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zmart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zmart" type="462c0819:PsiDirectoryNode" />
-              <item name="lanterna" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zmart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zmart" type="462c0819:PsiDirectoryNode" />
-              <item name="lanterna" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="lanterna" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zmart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zmart" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zmart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zmart" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="scene" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570445888321" />
@@ -218,7 +417,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -259,49 +458,12 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3289689" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
               <option name="COLUMN_ORDER" />
             </State>
           </value>
@@ -309,85 +471,9 @@
       </map>
     </option>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/lanterna" />
     </ignored-roots>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/TerminalSize.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#7790#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/KeyStrokeListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/gui2/WindowBasedTextGUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scene/Root.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/terminal/Terminal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#15468#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lanterna/src/main/lanterna/com/googlecode/lanterna/input/InputProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-80">
-          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scene/FileEditor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scene/FileSaver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
